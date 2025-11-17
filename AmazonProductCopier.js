@@ -4,6 +4,7 @@
 // @author       Tim Macy
 // @license      AGPL-3.0-or-later
 // @version      1.0
+// @namespace    TimMacy.AmazonProductCopier
 // @include      /^https:\/\/www\.amazon\..+?\/.*/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @run-at       document-end
