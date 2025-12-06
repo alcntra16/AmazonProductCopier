@@ -3,7 +3,7 @@
 // @description  Copies Amazon product information to the clipboard with the press of a button.
 // @author       Tim Macy
 // @license      AGPL-3.0-or-later
-// @version      1.0
+// @version      1.1
 // @namespace    TimMacy.AmazonProductCopier
 // @include      /^https:\/\/www\.amazon\..+?\/.*/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
@@ -19,7 +19,7 @@
 *                                                                       *
 *                    Copyright © 2025 Tim Macy                          *
 *                    GNU Affero General Public License v3.0             *
-*                    Version: 1.0 - Amazon Product Copier               *
+*                    Version: 1.1 - Amazon Product Copier               *
 *                                                                       *
 *             Visit: https://github.com/TimMacy                         *
 *                                                                       *
@@ -127,6 +127,7 @@
         'div#productDescription_feature_div:first-child',
         'div#detailBulletsWithExceptions_feature_div',
         'div#detailBulletsReverseInterleaveContainer_feature_v2',
+        '#detailBullets2_feature_div',
         '#reviewsMedley #averageCustomerReviewsAnchor',
         'span[data-hook="rating-out-of-text"]',
         'span[data-hook="total-review-count"]',
@@ -187,7 +188,7 @@
         overlay.appendChild(modal);
         document.body.appendChild(overlay);
 
-        setTimeout(() => { overlay.remove(); }, 750);
+        setTimeout(() => { overlay.remove(); }, 600);
     }
 
     // add the button
